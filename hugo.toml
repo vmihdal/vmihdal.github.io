@@ -1,0 +1,4 @@
+baseURL = 'https://vmihdal.github.io/'
+languageCode = 'en-us'
+title = 'vmihdal'
+theme = 'ananke'
